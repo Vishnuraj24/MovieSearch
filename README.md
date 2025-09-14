@@ -19,7 +19,7 @@ Extract the downloaded ZIP, then in PowerShell run:
 
 ```powershell
 cd "C:\path\to\elasticsearch-8.x"
-.in\elasticsearch.bat -E discovery.type=single-node -E xpack.security.enabled=false
+ .\bin\elasticsearch.bat -E discovery.type=single-node -E xpack.security.enabled=false
 ```
 
 Check http://localhost:9200 to verify it’s running.
