@@ -1,0 +1,2 @@
+D:\movie-search\MovieSearch\obj\Debug\net8.0\staticwebassets.build.json
+D:\movie-search\MovieSearch\obj\Debug\net8.0\staticwebassets.build.json
