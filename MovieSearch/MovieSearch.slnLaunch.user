@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\worker\\worker.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MovieSearch.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
