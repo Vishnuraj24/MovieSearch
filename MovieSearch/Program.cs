@@ -17,6 +17,7 @@ builder.Services.AddElasticsearch(builder.Configuration);
 builder.Services.AddSingleton<IMovieSearchService, MovieSearchService>();
 builder.Services.AddSingleton<IMovieEventProducer, MovieEventProducer>();
 
+//this is just a demo comment to show how merge conflict arises.
 var app = builder.Build();
 
 // On startup, ensure the index exists
